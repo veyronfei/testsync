@@ -1,2 +1,0 @@
-# testsync
-Created with CodeSandbox
